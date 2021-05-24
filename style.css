@@ -1,0 +1,25 @@
+body{
+    background-color:grey;
+}
+#container{
+    height: 300px;
+    width: 600px;
+    text-align: center;
+    background-color: white;
+    border: black;
+    margin: auto;
+}
+#input{
+    width: 100px;
+    margin: 20px auto;
+}
+#Button{
+    margin: 25px auto auto 5px;
+}
+p{
+    font: 25px;
+    
+}
+.container p p{
+    padding-bottom: 50%;
+}
